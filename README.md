@@ -1,6 +1,6 @@
 # Telcom Customer Churn Analysis
 
-This repository contains a Jupyter Notebook for analyzing customer churn in the telecom industry. The analysis involves data preprocessing, visualization, and building machine learning models to predict customer churn and identify factors influencing it.
+I've developed this Machine Learning project for analyzing customer churn in the telecom industry. The analysis involves data preprocessing, visualization, and building machine learning models to predict customer churn and identify factors influencing it.
 
 ---
 
